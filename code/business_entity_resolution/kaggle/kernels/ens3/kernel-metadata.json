@@ -1,0 +1,28 @@
+{
+  "id": "abhishekg14/aml26-ens3",
+  "title": "aml26-ens3",
+  "code_file": "run.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "abhishekg14/amazon-ml-2026-data",
+    "abhishekg14/amazon-ml-2026-code"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "abhishekg14/aml26-wide30",
+    "abhishekg14/aml26-block-train-in",
+    "abhishekg14/aml26-block-train-us",
+    "abhishekg14/aml26-block-test-in",
+    "abhishekg14/aml26-block-test-fr-us",
+    "abhishekg14/aml26-llm2",
+    "abhishekg14/aml26-llm3",
+    "abhishekg14/aml26-llm4",
+    "abhishekg14/aml26-llm5",
+    "abhishekg14/aml26-llm6"
+  ]
+}

@@ -1,0 +1,16 @@
+# Large files and output artifacts (>100MB blocked by GitHub)
+output/
+*.zip
+
+# Temporary and cache files
+.freebuff/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.env
+venv/
+.venv/
