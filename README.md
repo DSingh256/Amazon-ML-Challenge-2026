@@ -225,11 +225,6 @@ This runs syntax compilation, unit tests, stages the outputs, and produces the v
 
 ---
 
-## 👥 Team: 404 Not Found (Team PI)
-
-- **Abhishek Kumar Gupta**
-- **Niraj Visave**
-- **Dhairya Singh** ([@DSingh256](https://github.com/DSingh256))
 
 ---
 
